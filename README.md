@@ -30,7 +30,7 @@ Aplicación de consola en Java para convertir entre múltiples monedas en tiempo
 
 ---
 
-## 📦 Instalación y ejecución
+## Instalación y ejecución
 
 1. **Clona el repositorio o descarga los archivos.**
 
